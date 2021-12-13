@@ -1,4 +1,9 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
+# Data Disparities
+There is a lot of research analyzing disparities in the way that environmental health protection laws like the Clean Water Act are enforced by the EPA and complied with by industry. There is also a lot of interest in both the US and Canada (Bill C-230) about “screening tools” that allow EPA staff and the public to visualize cumulative impacts on - and justify allocation of funding to - “overburdened” communities. The White House Environmental Justice Advisory Council hopes such tools can be extended and developed to ensure that funding from infrastructure and climate bills can be allocated to those communities that have been the most harmed by toxics and fossil fuels. 
+
+Making climate and environmental justice investments data-driven only works if the data is good. Unfortunately, we are well aware that it is not! Our goal in this project is to illustrate data ambiguities, uncertainties, gaps, and disparities to inform the high-level discussions around justice screening tools. Such data gaps matter because if they are used in efforts like Justice40, they will shape which places count as an EJ community and which don’t, and who does and does not get money. 
+
 # Github Resources
 * A tutorial on using Github: https://docs.google.com/presentation/d/1UsPFtVVGwu8hdp5E-eWEgMhfMigpZ2qpNCkKTdxpeVE/edit#slide=id.p
 * A tutorial on using the Issues feature of Github repos: https://docs.google.com/presentation/d/1cOl2yYB1dNMyZLYzaQJr8-_Vh4c_WyI0WQ4PuOSVMXI/edit#slide=id.p
